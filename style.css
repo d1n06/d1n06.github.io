@@ -1,0 +1,21 @@
+body {
+	background-color: #ddd;
+	overflow: hidden;
+	font-family: "Consolas";
+	margin: 50px;
+	font-weight: bold;
+		text-align: center;
+}
+
+h3 {
+	color: #333;
+}
+
+p,li {
+	color: #222;
+}
+
+div.content {
+	text-align: left;
+	margin: 0 10% 0
+}
